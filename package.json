@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoTavaresDev/nextJS-Teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoTavaresDev/nextJS-Teste/issues"
+  },
+  "homepage": "https://github.com/JoaoTavaresDev/nextJS-Teste#readme",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
